@@ -25,13 +25,7 @@ Repository: <https://github.com/aqmalazza/ReceiptSimulation-ManASoscialCafe.git>
 
 ## Preview Aplikasi
 
-Tambahkan screenshot aplikasi pada bagian ini setelah project berhasil dijalankan.
-
-```md
 ![Preview Aplikasi](assets/app-preview.png)
-```
-
-Letakkan gambar utama aplikasi tepat di bawah bagian **Preview Aplikasi** agar pengunjung repository langsung memahami bentuk aplikasi yang dibuat.
 
 ---
 
@@ -87,15 +81,11 @@ Tabel `detail_transaksi` digunakan sebagai tabel penghubung antara `transaksi` d
 
 ### ERD
 
-```md
-![ERD](assets/ERD.png)
-```
+![ERD](ReceiptSimulation/assets/ERD.png)
 
 ### Table Relationship
 
-```md
-![Table Relationship](assets/Table%20Relationship.png)
-```
+![Table Relationship](ReceiptSimulation/assets/Table%20Relationship.png)
 
 ---
 
