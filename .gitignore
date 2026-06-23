@@ -1,0 +1,83 @@
+# Python cache
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+
+venv/
+env/
+.venv/
+ENV/
+
+# Local environment / secrets
+
+.env
+.env.*
+*.local
+
+# IDE / editor
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+
+*.log
+logs/
+
+# Temporary files
+
+tmp/
+temp/
+*.tmp
+
+# Build / distribution
+
+build/
+dist/
+*.egg-info/
+
+# Backup / archive files
+
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Database local backups / private exports
+
+*.sql.bak
+*_backup.sql
+*_dump.sql
+*_private.sql
+local_database/
+backup_database/
+
+# Local receipt output
+
+struk_terakhir.txt
+receipt_output.txt
+printed_receipt.txt
+
+# Testing / coverage
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+# MySQL local files
+
+*.pid
+*.sock
+*.err
